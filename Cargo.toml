@@ -1,0 +1,11 @@
+[package]
+name = "chstr"
+version = "0.1.0"
+authors = ["James Whaley <juicy66173@gmail.com>"]
+description = "A macro to convert a character array into a string at compile time."
+edition = "2021"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+
+repository = "https://github.com/Juici/chstr"
+documentation = "https://docs.rs/chstr"
